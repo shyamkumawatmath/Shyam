@@ -1,0 +1,32 @@
+
+Journal Articles:
+
+S. Bhatter, K. Jangid, Shyamsunder, D. Baleanu, S. D. Purohit, and D. L. Suthar, “A new investigation on fractionalized modeling of human liver,” Scientific Reports (accepted), 2024.
+
+A. Venkatesh, M. Manivel, B. Baranidharan, and Shyamsunder, “Numerical study of a new time-fractional mpox model using Caputo fractional derivatives,” Physica Scripta, vol. 99, p. 025 226, 2024.
+
+S. Bhatter, K. Jangid, Shyamsunder, D. Baleanu, D. L. Suthar, and S. D. Purohit, “Analysis of the family of integral equations involving incomplete types of I and ¯I-functions,” Applied Mathematics in Science and Engineering, vol. 31, no. 1, p. 2 165 280, 2023.
+
+S. Bhatter, K. Jangid, Shyamsunder, S. D. Purohit, D. Baleanu, and D. L. Suthar, “A generalized study of the distribution of buffer over calcium on a fractional dimension,” Applied Mathematics in Science and Engineering, vol. 31, no. 1, p. 2 217 323, 2023.
+
+S. Bhatter, Nishant, Shyamsunder, and S. D. Purohit, “Srivastava-Luo-Raina M-transform involving the incomplete I-functions,” Computational Methods for Differential Equations, vol. 12, no. 1, pp. 159–172, 2023.
+
+S. Bhatter, Nishant, Shyamsunder, S. D. Purohit, and D. L. Suthar, “A study of incomplete I-functions relating to certain fractional integral operators,” Applied Mathematics in Science and Engineering, vol. 31, no. 1, p. 2 252 996, 2023.
+
+S. Bhatter, Shyamsunder, K. Jangid, S. D. Purohit, and H. M. Baskonus, “Fractional differential equations related to an integral operator involving the incomplete I-function as a kernel,” Mathematical Methods in the Applied Sciences, pp. 1–15, 2023.
+
+M. Meena, M. Purohit, Shyamsunder, S. D. Purohit, and K. S. Nisar, “A novel investigation of the hepatitis B virus using a fractional operator with a non-local kernel,” Partial Differential Equations in Applied Mathematics, vol. 8, p. 100 577, 2023.
+
+Shyamsunder and E. Someone, “A new fractional mathematical model to study the impact of vaccination on COVID-19 outbreaks,” Decision Analytics Journal, vol. 6, p. 100 156, 2023.
+
+Shyamsunder and E. Someone, “A study of the hepatitis B virus infection using Hilfer fractional,” Proceedings of the Institute of Mathematics and Mechanics, vol. 48, pp. 100–117, 2022.
+
+Shyamsunder and E. Someone, “Fractionalized mathematical models for drug diffusion,” Chaos Solitons Fractals, vol. 165, p. 112 810, 2022.
+
+Shyamsunder and E. Someone, “Numerical modeling on age-based study of coronavirus transmission,” Applied Mathematics in Science and Engineering, pp. 609–634, 2022.
+
+Conference Proceedings:
+
+S. Bhatter, S. D. Purohit, and Shyamsunder*, “Several computational-based expansions for incomplete ℵ-function using Leibniz rule,” in International Conference of Mathematical Modelling, Applied Analysis and Computation (Accepted), Springer, 2024.
+
+S. Bhatter, Nishant, and Shyamsunder*, “Mathematical model on the effects of environmental pollution on biological populations,” in International Conference of Mathematical Modelling, Applied Analysis and Computation, Springer, 2022, pp. 488–496.
